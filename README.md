@@ -1,4 +1,6 @@
-![Logo](https://i.imgur.com/RtRJTp6.png)
+<p align="center">
+    <img src="https://i.imgur.com/RtRJTp6.png">
+</p>
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/eefb5e71110a85b4ac3f/maintainability)](https://codeclimate.com/github/werdelesmarcio/PyTCPScan2.3/maintainability) [![Build status](https://ci.appveyor.com/api/projects/status/050o62vq1v03wv4c?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/pytcpscan2.3) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2.3) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2.3) ![GitHub License](https://img.shields.io/github/license/werdelesmarcio/PyTCPScan2.3)
 
@@ -51,7 +53,7 @@ pyinstaller --onefile .\pass_generator.py
 ```
     
 ### Execução
-<img src="https://i.imgur.com/Jmav9F3.png">
+<img src="https://i.imgur.com/Jmav9F3.png" width=450px>
 
 ### Autores
 **Werdeles (gh05tb0y) Soares:** _Desenvolvedor_
@@ -65,6 +67,4 @@ Usuário do github: [@werdelesmarcio](https://github.com/werdelesmarcio)
 Este projeto está sob Licença GPL-3.0. Para mais informações, consulte a documentação de licença no link abaixo.
 * [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/werdelesmarcio/PyTCPScan2?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/werdelesmarcio/PyTCPScan2?style=for-the-badge">
-
-<img src = "https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" width =130 align="Right">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/werdelesmarcio/PyTCPScan2?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/werdelesmarcio/PyTCPScan2?style=for-the-badge">   <img src = "https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" width=190px align="Right">
