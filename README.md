@@ -2,7 +2,11 @@
     <img src="https://i.imgur.com/RtRJTp6.png">
 </p>
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/eefb5e71110a85b4ac3f/maintainability)](https://codeclimate.com/github/werdelesmarcio/PyTCPScan2.3/maintainability) [![Build status](https://ci.appveyor.com/api/projects/status/050o62vq1v03wv4c?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/pytcpscan2.3) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2.3) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2.3) ![GitHub License](https://img.shields.io/github/license/werdelesmarcio/PyTCPScan2.3)
+[![Maintainability](https://api.codeclimate.com/v1/badges/8df7dedc252cf60d0af5/maintainability)](https://codeclimate.com/github/werdelesmarcio/gerador_senhas/maintainability)
+
+ 
+ 
+ [![Build status](https://ci.appveyor.com/api/projects/status/050o62vq1v03wv4c?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/pytcpscan2.3) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2.3) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2.3) ![GitHub License](https://img.shields.io/github/license/werdelesmarcio/PyTCPScan2.3)
 
 # Pass Generator - Versão 1.0 (beta) 
 
