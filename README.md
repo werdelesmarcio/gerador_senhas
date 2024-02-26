@@ -3,7 +3,7 @@
 </p>
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/8df7dedc252cf60d0af5/maintainability)](https://codeclimate.com/github/werdelesmarcio/gerador_senhas/maintainability)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_gerador_senhas&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_gerador_senhas) ![GitHub License](https://img.shields.io/github/license/werdelesmarcio/gerador_senhas)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_gerador_senhas&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_gerador_senhas) ![GitHub License](https://img.shields.io/github/license/werdelesmarcio/gerador_senhas) [![CircleCI](https://dl.circleci.com/status-badge/img/gh/werdelesmarcio/gerador_senhas/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/werdelesmarcio/gerador_senhas/tree/master)
 
 # Pass Generator - Versão 1.0 (beta) 
 
