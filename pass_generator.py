@@ -53,3 +53,4 @@ class PassGen:
 
 gen = PassGen()
 gen.Iniciar()
+gen = test_PassGen()
